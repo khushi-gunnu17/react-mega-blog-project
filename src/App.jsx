@@ -29,7 +29,7 @@ function App() {
 
 	
 	return !loading ? (
-		<div className='min-h-screen flex flex-wrap content-between' style={{backgroundColor: '#E8B9AB'}}>
+		<div className='min-h-screen flex flex-wrap content-between bg-[#E8B9AB]'>
 			<div className='w-full block'>
 				<Header />
 					<main>
